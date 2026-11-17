@@ -1,6 +1,6 @@
 # DCT2201 - Banco de Dados
 
-Repositório pessoal de Vanesca Héllen dos Santos Silva ([vanescaSnt]) com os arquivos de infraestrutura das atividades da disciplina.
+Repositório pessoal de Vanesca Héllen dos Santos Silva (vanescaSnt) com os arquivos de infraestrutura das atividades da disciplina.
 
 ## Tarefa 03 - Docker Compose, MariaDB e Administração de SGBD
 
